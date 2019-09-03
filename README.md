@@ -5,6 +5,8 @@ This is a a simple website project for showing how to use GIt and GitHub togethe
 
 ## Introduction
 
+This is example is to show differennt parts of the Git and various commands using a web project
+
 ## Purpose
 
 ## Deployment
