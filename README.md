@@ -17,7 +17,7 @@ This is a simple web project, deployment can be on any web serve or even local f
 
 ## How To Contribute 
 
-Sample website with plenty of files for demos
+Please fork this and then issue pool request for revuew 
 
 ## Copyright
 
